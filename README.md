@@ -1,37 +1,85 @@
-# Raine
+# Hi, I'm Raine Ocampo 👋
 
-🎓 Computer Engineering Student
+🎓 Computer Engineering Student at Pampanga State University
 
-## About Me
+I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Development. I enjoy building projects that combine hardware and software to solve real-world problems.
 
-I'm a Computer Engineering student passionate about programming and software development. I enjoy building projects to improve my skills and expand my knowledge in technology.
+---
+
+## 🚀 About Me
+
+* 🔭 Currently exploring Embedded Systems and IoT Development
+* 🌱 Learning advanced Python development and Computer Vision
+* 💡 Interested in Automation, Signal Processing, and Smart Systems
+* 🎯 Goal: Become a Software/Embedded Systems Engineer
+
+---
 
 ## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Languages
 
-## Projects
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+</p>
 
-### Quiz Game
-A Python-based multiple-choice quiz game with score tracking and input validation.
+### Tools & Technologies
 
-### Shopping Spree
-A simple shopping cart system built using Python.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+</p>
 
-### Countdown Timer
-A terminal-based timer displaying hours, minutes, and seconds.
+---
 
-## Education
+## 📂 Featured Projects
 
-**Bachelor of Science in Computer Science**  
-*University Name*  
-Expected Graduation: 20XX
+### 🤖 ESP32-S3 CAM-Based Automated Resistor Sorter
 
-## Contact
+Automated resistor classification system using ESP32-S3 CAM, OpenCV, and servo-based sorting mechanisms.
 
-- GitHub: github.com/yourusername
-- Email: your.email@example.com
+### 📊 Digital Signal Processing Application
+
+Desktop application for signal analysis, filtering, Fourier transforms, Z-transforms, and spectral visualization.
+
+### 🔐 IoT-Based Smart Locker
+
+RFID and keypad-secured locker system with real-time monitoring and database integration.
+
+### 💧 IoT-Based Smart Plant Watering System
+
+Automated irrigation system using soil moisture sensors and web-based monitoring.
+
+### ⚙️ Operating System Algorithm Visualizer
+
+Interactive simulator for CPU scheduling and page replacement algorithms.
+
+---
+
+## 🎯 Current Focus
+
+* Embedded Systems Development
+* Computer Vision with OpenCV
+* Internet of Things (IoT)
+* Software Engineering Best Practices
+* Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [raineaveryocampo@gmail.com](mailto:raineaveryocampo@gmail.com)
+* 💻 GitHub: https://github.com/Noizeeee
+
+---
