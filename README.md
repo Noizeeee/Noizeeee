@@ -15,6 +15,12 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 ---
 
+## 💭 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ## 🛠️ Technical Skills
 
 ### Languages
@@ -28,6 +34,8 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 </p>
+
+---
 
 ### Tools & Technologies
 
