@@ -15,6 +15,36 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 ---
 
+## 🌐 Digital Portfolio
+
+<p align="center">
+  <a href="https://noizeeee.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Expertise-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/IoT-Projects-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software-Development-purple?style=flat-square" />
+</p>
+
+<p align="center">
+  <i>
+    Explore my engineering projects, technical portfolio,
+    certifications, and project documentation.
+  </i>
+</p>
+
+<p align="center">
+  <a href="https://noizeeee.github.io">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Live-success?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 💭 Developer Quote
 
 <p align="center">
