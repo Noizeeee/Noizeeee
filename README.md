@@ -37,12 +37,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
   </i>
 </p>
 
-<p align="center">
-  <a href="https://noizeeee.github.io">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Live-success?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 💭 Developer Quote
