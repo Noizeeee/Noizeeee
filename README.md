@@ -9,9 +9,9 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 ## 🚀 About Me
 
 * 🔭 Currently exploring Embedded Systems and IoT Development
-* 🌱 Learning advanced Python development and Computer Vision
+* 🌱 Learning Advanced Python Development and Computer Vision
 * 💡 Interested in Automation, Signal Processing, and Smart Systems
-* 🎯 Goal: Become a Software/Embedded Systems Engineer
+* 🎯 Goal: Become a Software / Embedded Systems Engineer
 
 ---
 
@@ -20,6 +20,8 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -34,8 +36,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 </p>
-
----
 
 ### Tools & Technologies
 
@@ -61,8 +61,20 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noizeeee&theme=tokyonight" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noizeeee&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Noizeeee&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noizeeee&theme=tokyo-night" />
 </p>
 
 ---
@@ -73,25 +85,44 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 Automated resistor classification system using ESP32-S3 CAM, OpenCV, and servo-based sorting mechanisms.
 
+**Tech Stack:** ESP32-S3, OpenCV, Python, Arduino IDE
+**Repository:** Coming Soon
+
+---
+
 ### 📊 Digital Signal Processing Application
 
 Desktop application for signal analysis, filtering, Fourier transforms, Z-transforms, and spectral visualization.
 
-**Repository**: [Digital Signal Processing Application] (https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron.git)
+**Tech Stack:** Python, Qt, NumPy, Matplotlib
+**Repository:** [DSP Simulator](https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron)
+
+---
 
 ### 🔐 IoT-Based Smart Locker
 
 RFID and keypad-secured locker system with real-time monitoring and database integration.
 
+**Tech Stack:** Arduino, RFID, Firebase, Embedded C
+**Repository:** Coming Soon
+
+---
+
 ### 💧 IoT-Based Smart Plant Watering System
 
 Automated irrigation system using soil moisture sensors and web-based monitoring.
+
+**Tech Stack:** ESP32, Sensors, Firebase, IoT
+**Repository:** Coming Soon
+
+---
 
 ### ⚙️ Operating System Algorithm Visualizer
 
 Interactive simulator for CPU scheduling and page replacement algorithms.
 
-**Repository**: [Operating System Algorithm Visualizer (https://github.com/clarencze/OS-VISUALIZER.git)
+**Tech Stack:** Java, GUI Development, Operating Systems
+**Repository:** [OS Visualizer](https://github.com/clarencze/OS-VISUALIZER)
 
 ---
 
@@ -107,7 +138,11 @@ Interactive simulator for CPU scheduling and page replacement algorithms.
 
 ## 📫 Connect With Me
 
-* 📧 Email: raineaveryocampo@gmail.com
+* 📧 Email: [raineaveryocampo@gmail.com](mailto:raineaveryocampo@gmail.com)
 * 💻 GitHub: https://github.com/Noizeeee
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noizeeee&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
