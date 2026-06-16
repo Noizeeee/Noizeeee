@@ -68,6 +68,7 @@ Automated resistor classification system using ESP32-S3 CAM, OpenCV, and servo-b
 ### 📊 Digital Signal Processing Application
 
 Desktop application for signal analysis, filtering, Fourier transforms, Z-transforms, and spectral visualization.
+
 **Repository**:[Digital Signal Processing Application] (https://github.com/alphrancis/DSP-Simulator-ng-mga-GOAT-w-Feedback-from-Lebron.git)
 
 ### 🔐 IoT-Based Smart Locker
@@ -81,6 +82,7 @@ Automated irrigation system using soil moisture sensors and web-based monitoring
 ### ⚙️ Operating System Algorithm Visualizer
 
 Interactive simulator for CPU scheduling and page replacement algorithms.
+
 **Repository**:[Operating System Algorithm Visualizer (https://github.com/clarencze/OS-VISUALIZER.git)
 
 ---
