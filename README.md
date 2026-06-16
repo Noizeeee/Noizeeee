@@ -131,6 +131,17 @@ Interactive simulator for CPU scheduling and page replacement algorithms.
 
 **Tech Stack:** Java, GUI Development, Operating Systems
 **Repository:** [OS Visualizer](https://github.com/clarencze/OS-VISUALIZER)
+**Live Demo: ** https://osvisualizer.onrender.com/
+
+---
+
+### 🧮 Web-Based Numerical Methods Calculator
+
+Web application for solving systems of linear equations using various numerical methods and interactive result visualization.
+
+**Tech Stack:** JavaScript, HTML/CSS, Firebase, Git
+**Repository:** [WebBased Numerical Methods Calculatror](https://github.com/Jviscoding/Numerical-Method)
+**Live Demo:** https://numerical-method.pages.dev/
 
 ---
 
