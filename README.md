@@ -47,11 +47,15 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noizeeee&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noizeeee&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noizeeee&layout=compact&theme=tokyonight&card_width=250" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noizeeee&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noizeeee&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -92,7 +96,7 @@ Interactive simulator for CPU scheduling and page replacement algorithms.
 
 ## 📫 Connect With Me
 
-* 📧 Email: [raineaveryocampo@gmail.com](mailto:raineaveryocampo@gmail.com)
+* 📧 Email: raineaveryocampo@gmail.com
 * 💻 GitHub: https://github.com/Noizeeee
 
 ---
