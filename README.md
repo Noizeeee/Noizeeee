@@ -112,7 +112,6 @@ Desktop application for signal analysis, filtering, Fourier transforms, Z-transf
 RFID and keypad-secured locker system with real-time monitoring and database integration.
 
 **Tech Stack:** Arduino, RFID, Firebase, Embedded C
-**Repository:** Coming Soon
 
 ---
 
@@ -121,7 +120,6 @@ RFID and keypad-secured locker system with real-time monitoring and database int
 Automated irrigation system using soil moisture sensors and web-based monitoring.
 
 **Tech Stack:** ESP32, Sensors, Firebase, IoT
-**Repository:** Coming Soon
 
 ---
 
@@ -130,6 +128,7 @@ Automated irrigation system using soil moisture sensors and web-based monitoring
 Interactive simulator for CPU scheduling and page replacement algorithms.
 
 **Tech Stack:** Java, GUI Development, Operating Systems
+
 **Repository:** [OS Visualizer](https://github.com/clarencze/OS-VISUALIZER)
 
 **Live Demo:** https://osvisualizer.onrender.com/
