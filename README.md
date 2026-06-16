@@ -63,22 +63,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noizeeee&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noizeeee&theme=tokyo-night" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 ### 🤖 ESP32-S3 CAM-Based Automated Resistor Sorter
