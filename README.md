@@ -47,7 +47,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noizeeee&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noizeeee&layout=compact&theme=tokyonight&card_width=250" />
 </p>
 
 <p align="center">
