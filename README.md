@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=Raine%20Ocampo&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Embedded%20Systems%20%C2%B7%20IoT%20%C2%B7%20Computer%20Vision%20%C2%B7%20Software%20Dev&descSize=14&descAlignY=70&descColor=00f2fe&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b4b,60:1a1464,100:0a0a2e&height=200&section=header&text=Raine%20Ocampo&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=⚡%20Embedded%20Systems%20·%20IoT%20·%20Computer%20Vision%20·%20Software%20Dev%20⚡&descSize=15&descAlignY=68&descColor=FFD700&animation=twinkling&fontAlign=50&stroke=FFD700&strokeWidth=2" width="100%"/>
 </p>
 
 🎓 Computer Engineering Student at Pampanga State University
