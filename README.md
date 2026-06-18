@@ -169,3 +169,7 @@ Web application for solving systems of linear equations using various numerical 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Noizeeee&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,30:ff00ff,60:1a0033,100:0d0015&height=150&section=footer&text=Raine%20Ocampo%20·%20Pampanga%20State%20University&fontSize=16&fontColor=ffffff&fontAlignY=45&desc=Computer%20Engineering%20·%20Building%20the%20Future&descSize=13&descAlignY=67&descColor=ffffff&animation=twinkling&stroke=ff00ff&strokeWidth=1" width="100%"/>
+</p>
