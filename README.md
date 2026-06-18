@@ -17,14 +17,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Noizeeee/Noizeeee/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
----
-
 ## 🌐 Digital Portfolio
 
 <p align="center">
