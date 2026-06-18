@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Raine+Ocampo+👋;Embedded+Systems+Engineer;IoT+%7C+Computer+Vision+%7C+Software+Dev;Building+the+Future+⚡" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0015,20:1a0533,50:2d1b69,80:0e4d6e,100:00b4d8&height=220&section=header&text=Raine%20Ocampo&fontSize=45&fontColor=ffffff&fontAlignY=50&desc=Embedded%20Systems%20·%20IoT%20·%20Computer%20Vision%20·%20Software%20Dev&descSize=15&descAlignY=68&descColor=00e5ff&animation=twinkling&stroke=9b5de5&strokeWidth=3" width="100%"/>
 </p>
 
 🎓 Computer Engineering Student at Pampanga State University
