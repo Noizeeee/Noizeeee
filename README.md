@@ -68,9 +68,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 <p align="center">
 
-  <i>Explore my engineering projects, technical portfolio,
-
-  certifications, and project documentation.</i>
+  <i>Explore my engineering projects, technical portfolio, certifications, and project documentation.</i>
 
 </p>
 
