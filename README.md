@@ -44,7 +44,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
   <a href="https://noizeeee.github.io" target="_blank">
 
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
   </a>
 
