@@ -326,9 +326,24 @@ Web application for solving systems of linear equations using various numerical 
 
 
 
-* 📧 Email: [raineaveryocampo@gmail.com](mailto:raineaveryocampo@gmail.com)
+<p align="center">
 
-* 💻 GitHub: https://github.com/Noizeeee
+  <!-- Email -->
+  <a href="mailto:raineaveryocampo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Noizeeee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://noizeeee.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+</p>
 
 
 
