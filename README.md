@@ -365,9 +365,6 @@ Web application for solving systems of linear equations using various numerical 
 
 </p> 
 
-
-## 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+⚡+Java+⚡+C%2B%2B+⚡+JavaScript;OpenCV+⚡+Arduino+⚡+Firebase+⚡+Qt;Embedded+Systems+⚡+IoT+⚡+Computer+Vision" />
 </p>
