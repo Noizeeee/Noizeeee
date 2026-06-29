@@ -366,5 +366,5 @@ Web application for solving systems of linear equations using various numerical 
 </p> 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,mysql,html,git,github,vscode,opencv,qt,firebase,arduino&theme=dark" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" />
 </p>
