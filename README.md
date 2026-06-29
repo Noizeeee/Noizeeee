@@ -94,56 +94,92 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 
 
-## 🛠️ Technical Skills
+<div align="center">
 
+## 🛠️ Tech Stack
 
+<h3>🧠 Languages</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br><b>Python</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br><b>Java</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br><b>C++</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="50"/><br><b>PHP</b>
+</td>
+</tr>
+</table>
 
-### Languages
+<h3>🌐 Web</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br><b>React</b>
+</td>
+</tr>
+</table>
 
+<h3>🗄️ Databases & Backend</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br><b>MySQL</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><b>SQLite</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><b>Firebase</b>
+</td>
+</tr>
+</table>
 
+<h3>⚙️ Tools</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/github/white" width="50"/><br><b>GitHub</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VSCode</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
+</td>
+</tr>
+</table>
 
-<p>
+<h3>🔌 Embedded & Hardware</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br><b>Arduino</b>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br><b>ESP32</b>
+</td>
+</tr>
+</table>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-</p>
-
-
-
-### Tools & Technologies
-
-
-
-<p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
-
-</p>
-
+</div>
 
 
 ---
@@ -364,90 +400,3 @@ Web application for solving systems of linear equations using various numerical 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,30:ff00ff,60:1a0033,100:0d0015&height=150&section=footer&animation=twinkling&stroke=ff00ff&strokeWidth=1" width="100%"/>
 
 </p> 
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<h3>🧠 Languages</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/><br><b>Python</b>
-</td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br><b>Java</b>
-</td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br><b>C++</b>
-</td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br><b>PHP</b>
-</td>
-</tr>
-</table>
-
-<h3>🌐 Web</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS</b>
-</td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br><b>React</b>
-</td>
-</tr>
-</table>
-
-<h3>🗄️ Databases & Backend</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br><b>MySQL</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><b>SQLite</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><b>Firebase</b>
-</td>
-</tr>
-</table>
-
-<h3>⚙️ Tools</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
-</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/github/white" width="50"/><br><b>GitHub</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VSCode</b>
-</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
-</td>
-</tr>
-</table>
-
-<h3>🔌 Embedded & Hardware</h3>
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br><b>Arduino</b>
-</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50"/><br><b>ESP32</b>
-</td>
-</tr>
-</table>
-
-</div>
