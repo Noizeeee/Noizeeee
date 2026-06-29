@@ -365,3 +365,8 @@ Web application for solving systems of linear equations using various numerical 
 
 </p> 
 
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,mysql,html" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,qt,firebase,arduino" />
+</p>
