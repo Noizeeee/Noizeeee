@@ -364,7 +364,3 @@ Web application for solving systems of linear equations using various numerical 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,30:ff00ff,60:1a0033,100:0d0015&height=150&section=footer&animation=twinkling&stroke=ff00ff&strokeWidth=1" width="100%"/>
 
 </p> 
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+⚡+Java+⚡+C%2B%2B+⚡+JavaScript;OpenCV+⚡+Arduino+⚡+Firebase+⚡+Qt;Embedded+Systems+⚡+IoT+⚡+Computer+Vision" />
-</p>
