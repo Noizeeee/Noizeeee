@@ -337,7 +337,6 @@ Web application for solving systems of linear equations using various numerical 
 ---
 
 
-
 ## 🎯 Current Focus
 
 
@@ -384,8 +383,6 @@ Web application for solving systems of linear equations using various numerical 
 
 
 ---
-
-
 
 <p align="center">
 
