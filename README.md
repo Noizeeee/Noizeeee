@@ -17,7 +17,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 ---
 
 
-
 ## 🚀 About Me
 
 
