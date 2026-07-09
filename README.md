@@ -187,17 +187,17 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clarencze&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noizeeee&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarencze&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clarencze&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noizeeee&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noizeeee&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=clarencze&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarencze&theme=tokyonight&utcOffset=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noizeeee&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Noizeeee&theme=tokyonight&utcOffset=8" />
 
 </div>
 
