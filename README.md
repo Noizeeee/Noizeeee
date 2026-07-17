@@ -175,7 +175,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 </div>
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -207,9 +206,7 @@ Automated resistor classification system using ESP32-S3 CAM, OpenCV, and servo-b
 **Repository:** Coming Soon
 
 
-
 ---
-
 
 
 ### 📊 Digital Signal Processing Application
