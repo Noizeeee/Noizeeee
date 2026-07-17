@@ -4,14 +4,9 @@
 
 </p>
 
-
-
 🎓 Computer Engineering Student at Pampanga State University
 
-
-
 I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Development. I enjoy building projects that combine hardware and software to solve real-world problems.
-
 
 
 ---
