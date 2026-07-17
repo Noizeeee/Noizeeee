@@ -203,7 +203,7 @@ Automated resistor classification system using ESP32-S3 CAM, OpenCV, and servo-b
 
 **Tech Stack:** ESP32-S3, OpenCV, Python, Arduino IDE
 
-**Repository:** Coming Soon
+**Repository:**
 
 
 ---
