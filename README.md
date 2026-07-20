@@ -87,7 +87,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 ---
 
 ## 🛠️ Tech Stack
-
+<div align="center">
 <h3>🧠 Languages</h3>
 <table>
 <tr>
@@ -186,7 +186,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 </td>
 </tr>
 </table>
-
+</div>
 ---
 ## 📈 GitHub Stats
 
