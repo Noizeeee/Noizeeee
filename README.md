@@ -138,6 +138,9 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/><br><b>MySQL</b>
 </td>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><b>PostgreSQL</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br><b>SQLite</b>
 </td>
 <td align="center">
