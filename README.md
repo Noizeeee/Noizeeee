@@ -87,7 +87,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 ---
 
 ## 🛠️ Tech Stack
-<div align="center">
+
 <h3>🧠 Languages</h3>
 <table>
 <tr>
@@ -107,7 +107,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <img src="https://skillicons.dev/icons?i=php" width="50"/><br><b>PHP</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=gdscript" width="50"/><br><b>GDScript</b>
+<img src="https://skillicons.dev/icons?i=godot" width="50"/><br><b>GDScript</b>
 </td>
 </tr>
 </table>
@@ -122,7 +122,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br><b>React</b>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/><br><b>React</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vue" width="50"/><br><b>Vue.js</b>
@@ -186,7 +186,6 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 </td>
 </tr>
 </table>
-</div>
 ---
 ## 📈 GitHub Stats
 
