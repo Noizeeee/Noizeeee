@@ -88,7 +88,8 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 
 ## 🛠️ Tech Stack
 
-<div align = "center">
+<div align="center">
+
 <h3>🧠 Languages</h3>
 <table>
 <tr>
@@ -98,8 +99,11 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <td align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/><br><b>Java</b>
 </td>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50"/><br><b>C++</b>
+<td align="center" valign="bottom">
+<div style="height: 50px; display: flex; align-items: center; justify-content: center;">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50"/>
+</div>
+<b>C++</b>
 </td>
 <td align="center">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/><br><b>JavaScript</b>
@@ -131,7 +135,19 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 </tr>
 </table>
 
-<h3>🗄️ Databases & Backend</h3>
+<h3>⚙️ Backend & APIs</h3>
+<table>
+<tr>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/><br><b>Django</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50"/><br><b>REST API</b>
+</td>
+</tr>
+</table>
+
+<h3>🗄️ Databases</h3>
 <table>
 <tr>
 <td align="center">
@@ -146,13 +162,10 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 <td align="center">
 <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br><b>Firebase</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=django" width="50"/><br><b>Django</b>
-</td>
 </tr>
 </table>
 
-<h3>⚙️ Tools</h3>
+<h3>🧰 Tools</h3>
 <table>
 <tr>
 <td align="center">
@@ -163,6 +176,9 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VS Code</b>
+</td>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/><br><b>Docker</b>
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50"/><br><b>XAMPP</b>
@@ -190,10 +206,10 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
