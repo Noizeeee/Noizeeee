@@ -25,9 +25,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 * 🎯 Goal: Become a Software / Embedded Systems Engineer
 
 
-
 ---
-
 
 
 ## 🌐 Digital Portfolio
