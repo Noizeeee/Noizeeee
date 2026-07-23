@@ -216,9 +216,7 @@ I'm passionate about Embedded Systems, IoT, Computer Vision, and Software Develo
 ---
 
 
-
 ## 📂 Featured Projects
-
 
 
 ### 🤖 ESP32-S3 CAM-Based Automated Resistor Sorter
