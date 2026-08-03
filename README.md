@@ -303,9 +303,7 @@ Interactive simulator for CPU scheduling and page replacement algorithms.
 **Live Demo:** https://osvisualizer.onrender.com/
 
 
-
 ---
-
 
 
 ### 🧮 Web-Based Numerical Methods Calculator
