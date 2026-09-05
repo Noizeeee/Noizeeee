@@ -264,20 +264,6 @@ RFID and keypad-secured locker system with real-time monitoring and database int
 **Tech Stack:** Arduino, RFID, Firebase, Embedded C
 
 
----
-
-
-### 💧 IoT-Based Smart Plant Watering System
-
-
-
-Automated irrigation system using soil moisture sensors and web-based monitoring.
-
-
-
-**Tech Stack:** ESP32, Sensors, Firebase, IoT
-
-
 
 ---
 
